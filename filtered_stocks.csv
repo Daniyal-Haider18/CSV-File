@@ -1,10 +1,11 @@
-ZION,zions bancorporation n.a. common stock,$51.25,0.22,0.431%,1502824,7569447316.00,United States,,Major Banks,Finance,/market-activity/stocks/zion
-ZM,zoom video communications inc. class a common stock,$70.52,0.32,0.456%,1444098,21705295442.00,United States,2019,Computer Software: Programming Data Processing,Technology,/market-activity/stocks/zm
-ZNTL,zentalis pharmaceuticals inc. common stock,$3.14,0.14,4.667%,1700465,223279016.00,United States,2020,Biotechnology: Pharmaceutical Preparations,Health Care,/market-activity/stocks/zntl
-ZPTA,zapata computing holdings inc. common stock,$0.094,-0.0104,-9.962%,12920842,0.00,United States,,Blank Checks,Finance,/market-activity/stocks/zpta
-ZS,zscaler inc. common stock,$190.01,1.25,0.662%,1131109,28974625850.00,United States,2018,EDP Services,Technology,/market-activity/stocks/zs
-ZUMZ,zumiez inc. common stock,$22.35,-0.50,-2.188%,168230,427810491.00,United States,2005,Clothing/Shoe/Accessory Stores,Consumer Discretionary,/market-activity/stocks/zumz
-ZVRA,zevra therapeutics inc. common stock,$8.49,-0.04,-0.469%,383386,446725029.00,United States,,Biotechnology: Pharmaceutical Preparations,Health Care,/market-activity/stocks/zvra
-ZVSA,zyversa therapeutics inc. common stock,$2.30,0.04,1.77%,165777,2367151.00,United States,2022,Biotechnology: Pharmaceutical Preparations,Health Care,/market-activity/stocks/zvsa
-ZYME,zymeworks inc. common stock,$13.48,0.01,0.074%,286220,957718817.00,United States,,Biotechnology: Pharmaceutical Preparations,Health Care,/market-activity/stocks/zyme
-ZYXI,zynex inc. common stock,$8.03,0.08,1.006%,82637,254892452.00,United States,,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Health Care,/market-activity/stocks/zyxi
+symbol,name,lastsale,netchange,pctchange,volume,marketCap,country,ipoyear,industry,sector,url
+AADI,aadi bioscience inc. common stock,$2.11,-0.04,-1.86%,126223,51937300.00,United States,,Biotechnology: Pharmaceutical Preparations,Health Care,/market-activity/stocks/aadi
+AAL,american airlines group inc. common stock,$13.09,0.28,2.186%,38275131,8596254221.00,United States,,Air Freight/Delivery Services,Consumer Discretionary,/market-activity/stocks/aal
+AAME,atlantic american corporation common stock,$1.67,0.04,2.454%,3371,34067596.00,United States,,Life Insurance,Finance,/market-activity/stocks/aame
+AAOI,applied optoelectronics inc. common stock,$18.57,-0.43,-2.263%,2810086,759433428.00,United States,2013,Semiconductors,Technology,/market-activity/stocks/aaoi
+AAON,aaon inc. common stock,$109.34,-1.77,-1.593%,524547,8857977602.00,United States,,Industrial Machinery/Components,Industrials,/market-activity/stocks/aaon
+AAPL,apple inc. common stock,$235.00,2.85,1.228%,46404498,3572972195000.00,United States,1980,Computer Manufacturing,Technology,/market-activity/stocks/aapl
+ABAT,american battery technology company common stock,$0.998,-0.032,-3.107%,527774,71904345.00,United States,,Metal Mining,Basic Materials,/market-activity/stocks/abat
+ABEO,abeona therapeutics inc. common stock,$6.67,-0.07,-1.039%,82011,288907028.00,United States,,Biotechnology: Pharmaceutical Preparations,Health Care,/market-activity/stocks/abeo
+ABL,abacus life inc. class a common stock,$9.49,-0.27,-2.766%,97421,708441283.00,United States,2020,Investment Managers,Finance,/market-activity/stocks/abl
+ABNB,airbnb inc. class a common stock,$136.45,0.43,0.316%,2389891,87549521799.00,United States,2020,Diversified Commercial Services,Finance,/market-activity/stocks/abnb
